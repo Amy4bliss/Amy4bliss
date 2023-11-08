@@ -27,6 +27,6 @@ I'm fascinated by the power of data visualization to influence decision-making a
 ### Let's Connect and Collaborate
 - [LinkedIn](linkedin.com/in/nneamaka-uzoegwu-516583125)
 - [Personal Website](https://linktr.ee/Nneamaka.Uzoegwu)
-- 📧 Reach out to me at [nneamakauzoegwu@gmail.com]
+- 📧 Reach out to me at [Email](nneamakauzoegwu@gmail.com)
 
 I'm always open to new challenges and opportunities to use data visualization to make a difference. Take a look at my repositories and let's get in touch!
