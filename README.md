@@ -11,11 +11,7 @@ I'm a Data Analyst with a knack for turning complex data into compelling stories
 
 ### Featured Projects
 
-- ***Customer Attrition Dashboard***: Developed a comprehensive dashboard to analyze customer churn at an organization. This tool helped in identifying key factors contributing to attrition and enabled targeted customer retention strategies.
-
 - ***KPMG Virtual Internship Project***: As part of my virtual internship with KPMG, I handled a dataset for a cycling company. My role involved writing SQL queries for data cleaning and analysis, followed by the creation of an interactive sales dashboard to visualize customer behavior and product performance.
-
-- ***Gourmet Shipping Company Sales Dashboard***: Created a dynamic sales dashboard for a gourmet shipping company, providing insights into sales trends, product popularity, and order fulfillment efficiency, which facilitated data-driven decision-making.
 
 - ***Healthcare Data Analysis with Advanced Excel***: Performed an in-depth analysis of a USA hospital dataset focusing on seizure care providers in California. Utilized advanced Excel techniques to uncover patterns and provide recommendations for healthcare service improvements.
 
