@@ -4,7 +4,7 @@
 I'm a Data Analyst with a knack for turning complex data into compelling stories. I thrive on revealing the insights hidden within datasets and believe that every data point has a story to tell.
 
 ### My Toolbox
-- ***Languages**: Python (Pandas, NumPy), SQL, R
+- ***Languages***: Python (Pandas, NumPy), SQL, R
 - ***Visualization Tools***: Tableau, Power BI, Matplotlib, Seaborn
 - ***Data Management***: Excel, MySQL, PostgreSQL
 - ***Version Control***: Git, GitHub
