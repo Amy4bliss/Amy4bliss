@@ -15,7 +15,7 @@ I'm a Data Analyst with a knack for turning complex data into compelling stories
 
 - ***Healthcare Data Analysis with Advanced Excel***: Performed an in-depth analysis of a USA hospital dataset focusing on seizure care providers in California. Utilized advanced Excel techniques to uncover patterns and provide recommendations for healthcare service improvements.
 
-- ***Stock Market Analysis***: Conducted a statistical analysis of stock prices, including descriptive analytics and linear regression, on datasets from S&P 500, Tesla, Apple, and Microsoft for the years 2018-2023. This analysis provided valuable insights into market trends and investment opportunities.
+- ***Stock Market Analysis with Advanced Excel***: Conducted a statistical analysis of stock prices, including descriptive analytics and linear regression, on datasets from S&P 500, Tesla, Apple, and Microsoft for the years 2018-2023. This analysis provided valuable insights into market trends and investment opportunities.
 
 ### What Drives Me
 I'm fascinated by the power of data visualization to influence decision-making and strategy. There's nothing more satisfying than a well-crafted chart or graph that instantly conveys the underlying trends and truths of the data.
